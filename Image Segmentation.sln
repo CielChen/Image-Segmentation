@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Image Segmentation", "Image Segmentation\Image Segmentation.vcxproj", "{790824D2-71C6-4A59-A047-891038E1F330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790824D2-71C6-4A59-A047-891038E1F330}.Debug|Win32.ActiveCfg = Debug|Win32
+		{790824D2-71C6-4A59-A047-891038E1F330}.Debug|Win32.Build.0 = Debug|Win32
+		{790824D2-71C6-4A59-A047-891038E1F330}.Release|Win32.ActiveCfg = Release|Win32
+		{790824D2-71C6-4A59-A047-891038E1F330}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
